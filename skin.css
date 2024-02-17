@@ -173,7 +173,7 @@ btn-border, .btn.btn-border, .btn.circle-button.btn-border, h1, h2, .box-pin h3,
 }
 
 footer, .flex-control-paging li a:hover, .bg-color {
-    background-color: #0e1a35 !important;
+    background-color: #282a36 !important;
 }
 
 .flex-control-paging li a.flex-active, .header-slider .flex-control-paging li a.flex-active, .input-group-btn .btn, .btn.btn-primary:hover {
@@ -1619,6 +1619,7 @@ div.adv-img p {
 }
 
 footer{
+    background-color: #282a36;
     
 }
 .advs-box-top-icon .icon {

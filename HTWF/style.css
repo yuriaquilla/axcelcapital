@@ -2550,6 +2550,9 @@ footer {
     z-index: 1;
     margin-top: 0 !important;
 }
+.footer-base{
+    background-color:#820ad1;
+}
 
     footer h4, footer h5, footer h6 {
         margin-top: 0;
