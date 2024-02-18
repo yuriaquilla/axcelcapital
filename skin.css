@@ -132,7 +132,8 @@ header.menu-transparent .navbar-default .navbar-nav > .active > a, header.menu-t
 .white .navbar-nav > .active > a:focus, .white .navbar-nav > .open > a, .white .navbar-nav > .open > a:hover, .white .navbar-nav > .open > a:focus, .white .navbar-nav > li > a:focus,
 .white, .white ul li, .white p, .white .breadcrumb > .active, .white .navbar-nav > li > a, .white .navbar-nav > li > a:hover, .white .dropdown-menu > li > a, footer, footer p, footer li, footer a, footer span, footer .social-group i.circle,
 .white .niche-box-testimonails h5, .white ul.list-texts li b, .pricing-table .pricing-price span:last-child, footer .social-group i {
-    color: #9daac7 !important;
+    color: #000
+    !important;
 }
 
 
@@ -173,7 +174,7 @@ btn-border, .btn.btn-border, .btn.circle-button.btn-border, h1, h2, .box-pin h3,
 }
 
 footer, .flex-control-paging li a:hover, .bg-color {
-    background-color: #180327!important;
+    background-color: #fff!important;
 }
 
 .flex-control-paging li a.flex-active, .header-slider .flex-control-paging li a.flex-active, .input-group-btn .btn, .btn.btn-primary:hover {
@@ -1129,7 +1130,8 @@ COMPONENTS
         max-width: 360px;
         min-width: 100px;
         background: none;
-        background-color: #fff !important;
+        background-color: #ffffff
+        !important;
         text-shadow: none;
         color: #000;
         font-size: 15px;
