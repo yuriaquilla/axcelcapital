@@ -121,11 +121,11 @@ body div.boxed-border.border-yellow {
 
 body, .adv-img p, .caption-bottom p, .adv-circle .caption p, .advs-box p, .pricing-table .list-group-item, a, .list-items .list-item p, .tab-box .nav-tabs > li > a span, div.caption-bottom p,
 .header-base:not(.white) p, .title-base p, div.title-icon p {
-    color: #8492af;
+    color: #000000;
 }
 
 .img-box.inner .caption {
-    color: #8492af !important;
+    color: #000 !important;
 }
 
 header.menu-transparent .navbar-default .navbar-nav > .active > a, header.menu-transparent .navbar-default .navbar-nav > li:hover > a, .white .advs-box h4, .white .navbar-nav > .active > a, .white .navbar-nav > .active > a:hover,
@@ -173,7 +173,7 @@ btn-border, .btn.btn-border, .btn.circle-button.btn-border, h1, h2, .box-pin h3,
 }
 
 footer, .flex-control-paging li a:hover, .bg-color {
-    background-color: #282a36 !important;
+    background-color: #180327!important;
 }
 
 .flex-control-paging li a.flex-active, .header-slider .flex-control-paging li a.flex-active, .input-group-btn .btn, .btn.btn-primary:hover {
