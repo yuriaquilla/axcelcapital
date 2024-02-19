@@ -130,7 +130,7 @@ body, .adv-img p, .caption-bottom p, .adv-circle .caption p, .advs-box p, .prici
 
 header.menu-transparent .navbar-default .navbar-nav > .active > a, header.menu-transparent .navbar-default .navbar-nav > li:hover > a, .white .advs-box h4, .white .navbar-nav > .active > a, .white .navbar-nav > .active > a:hover,
 .white .navbar-nav > .active > a:focus, .white .navbar-nav > .open > a, .white .navbar-nav > .open > a:hover, .white .navbar-nav > .open > a:focus, .white .navbar-nav > li > a:focus,
-.white, .white ul li, .white p, .white .breadcrumb > .active, .white .navbar-nav > li > a, .white .navbar-nav > li > a:hover, .white .dropdown-menu > li > a, footer, footer p, footer li, footer a, footer span, footer .social-group i.circle,
+.white, .white ul li, .white p, .white .breadcrumb > .active, .white .navbar-nav > li > a, .white .navbar-nav > li > a:hover, .white .dropdown-menu > li > a .social-group i.circle,
 .white .niche-box-testimonails h5, .white ul.list-texts li b, .pricing-table .pricing-price span:last-child, footer .social-group i {
     color: #000
     !important;
@@ -174,7 +174,7 @@ btn-border, .btn.btn-border, .btn.circle-button.btn-border, h1, h2, .box-pin h3,
 }
 
 footer, .flex-control-paging li a:hover, .bg-color {
-    background-color: #fff!important;
+    background-color: #21201f!important;
 }
 
 .flex-control-paging li a.flex-active, .header-slider .flex-control-paging li a.flex-active, .input-group-btn .btn, .btn.btn-primary:hover {
@@ -2151,7 +2151,7 @@ div div.flexslider li .shadow-1 {
     opacity: 1;
     width: 70px;
     height: 70px;
-    background-color: #fff;
+    background-color: #2c3335;
     border-radius: 50%;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
     text-align: center;
