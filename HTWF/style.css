@@ -3970,6 +3970,7 @@ STEPS
     display: flex;
     width: calc(100% / 4 - 20px);
     padding: 10px;
+    text-align: center;
 }
 .rodape span{
     font-size: 20px;
