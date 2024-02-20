@@ -54,12 +54,12 @@ i.icon, .fullpage-menu .active i, .navbar-default .navbar-toggle:hover i, .navba
 .side-menu i, .side-menu ul a i, .bs-menu li:hover > a, .bs-menu li.active > a, .hamburger-button:hover, .img-box.adv-circle i, .advs-box-side .icon, .advs-box-side-icon i,
 .title-icon i, i, .fullpage-menu.white li.active a i, .timeline > li > .timeline-label h4, .anima-button i, .advs-box-multiple div i,
 .footer-center .footer-title, .accordion-list .list-group-item > a.active, footer a:hover, .block-quote.quote-1:before, .text-muted .block-quote.quote-2:before, .breadcrumb > li + li:before, div .extra-content, .navbar-default .navbar-nav > .active > a {
-    color: #5584ff;
+    color: #;
 }
 
 @media (max-width: 994px) {
     .navbar-nav .open .dropdown-menu > li > a[href="#"] {
-        color: #5584ff !important;
+        color: #F15A24 !important;
     }
 }
 
@@ -67,7 +67,7 @@ i.icon, .fullpage-menu .active i, .navbar-default .navbar-toggle:hover i, .navba
 .woocommerce div.product p.price, .woocommerce div.product span.price, .white .text-color, .accordion-list .list-group-item > a:hover, .boxed .circle-button:hover i, .dropdown-menu > li > a:hover,
 .pagination > .active > a, .pagination > li:not(.disabled):hover > a, .boxed .circle-button, header .btn-search:hover, .advs-box h2 a:hover, .nav.ms-minimal > li.active > a,
 header.scroll-css .navbar-default .navbar-nav > .active > a, header.menu-transparent.scroll-css .navbar-default .navbar-nav > li:hover > a, header.menu-transparent.scroll-css .navbar-default .navbar-nav > .active > a, header .navbar-default .navbar-nav > li:hover > a {
-    color: #5584ff !important;
+    color: #F15A24 !important;
 }
 
 .btn-border:hover, .btn.btn-border:hover, .btn.circle-button.btn-border:hover, .tag-row i {
@@ -2151,7 +2151,7 @@ div div.flexslider li .shadow-1 {
     opacity: 1;
     width: 70px;
     height: 70px;
-    background-color: #2c3335;
+    background-color: #f7f7f7;
     border-radius: 50%;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
     text-align: center;

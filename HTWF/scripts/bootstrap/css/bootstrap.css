@@ -3753,10 +3753,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #333333;
   background-color: rgb(253, 253, 253);
 }
-.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover {
-  color: #555555;
-  background-color: #fbfbfb;
-}
+
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
 .navbar-default .navbar-nav > .disabled > a:focus {

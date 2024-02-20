@@ -871,7 +871,7 @@ header .btn-default, header .btn, header .anima-button.circle-button, header .in
     }
 
 .navbar-default .navbar-nav > li > a, .mega-menu h5 {
-    color: #444;
+    color: #f4f4f4;
 }
 
 .nav > li.dropdown > a {
@@ -976,7 +976,7 @@ header > .navbar {
 }
 
 .navbar-main, .nav.inner {
-    background-color: #FFFFFF;
+    background-color: #2c3335;
     margin-bottom: 0;
     border: none;
 }
@@ -6361,7 +6361,7 @@ MENU - RESPONSIVE
 ------------------------------
 */
     .navbar-header {
-        background-color: #FFF;
+        background-color: #2c3335;
     }
 
     .bg-transparent .navbar-header {
