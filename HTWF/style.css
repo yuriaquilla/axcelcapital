@@ -6370,6 +6370,7 @@ MENU - RESPONSIVE
 */
     .navbar-header {
         background-color: #2c3335;
+        height: 85px;
     }
 
     .bg-transparent .navbar-header {

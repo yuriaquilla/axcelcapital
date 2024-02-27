@@ -945,7 +945,10 @@ function isScrollView(t) {
             $("body").on("click", ".side-menu > li", function (e) {
                 start_vertical_menu(this);
             });
-            $("header .dropdown-toggle").attr("href", "#");
+            $("header .dropdown-toggle").eq(0).attr("href", "index.html"); // Primeiro elemento
+            $("header .dropdown-toggle").eq(1).attr("href", "serviços.html"); // Segundo elemento
+            $("header .dropdown-toggle").eq(2).attr("href", "quemsomos.html"); // Terceiro elemento
+            $("header .dropdown-toggle").eq(3).attr("href", "api.html");      // Quarto elemento
         }
 
         if ($(".side-menu-fixed").length) {
